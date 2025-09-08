@@ -1,10 +1,3 @@
-def personal_information():
-    print('...')
-
-
-# Line which calls the above function.
-personal_information()
-# Line which calls the above function.
 #Braden Phetsarath
 #9/7/25
 #Personal Inforation
