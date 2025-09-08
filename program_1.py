@@ -10,7 +10,6 @@ personal_information()
 #Personal Inforation
 personal_information()
 def personal_information():
-    def personal_information ():
     name = "Braden Phetsarath"
     address = "Gotham City, New Jersey, NJ, 66666,"
     number = "678-999-8212"
