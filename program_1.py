@@ -1,7 +1,6 @@
 #Braden Phetsarath
 #9/7/25
 #Personal Inforation
-personal_information()
 def personal_information():
     name = "Braden Phetsarath"
     address = "Gotham City, New Jersey, NJ, 66666,"
