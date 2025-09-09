@@ -1,3 +1,4 @@
+
 #Braden Phetsarath
 #9/8/25
 #Average Age of Friends
@@ -11,5 +12,11 @@ def average_age():
     c = int(input("Enter Age of friend 3:"))
     d = int(input("Enter Age of friend 4:"))
     e = int(input("Enter Age of friend 5:"))
+    # Average the ages 
+    # Print the results 
+    # Sum ages
     print ((a + b + c + d + e)/x, "This is the Average age of your",x,"friends")
+
+
+# Line which calls the above function.
 average_age()
