@@ -15,6 +15,6 @@ def calculate_total_purchase():
     subt = float(i1+i2+i3+i4+i5)
     x = .07
     #maybe the sales tax changed or different store
-    finalc = (subt*.07 + subt)
+    finalc = (subt*x + subt)
     print ("Subtotal:",subt, "\nafter tax (7%)", "\nTotal Due:", finalc)
 calculate_total_purchase()
